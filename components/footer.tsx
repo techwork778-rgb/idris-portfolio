@@ -17,7 +17,7 @@ export function Footer() {
               href="https://deenpropertiesuae.com/"
               className="text-primary hover:text-primary/80 transition-colors text-xs sm:text-sm font-medium block break-all"
             >
-              Deen Properties
+              D E E N Properties
             </a>
             
           <a href="tel:+971508858144" className="w-full">
